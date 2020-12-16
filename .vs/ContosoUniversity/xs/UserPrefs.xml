@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8DCEB027-C05C-4C84-A4F5-6768CC081213}|Default">
+  <MonoDevelop.Ide.ItemProperties.ContosoUniversity FirstBuild="True" PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoUniversity/Models/Course.cs">
+    <Files>
+      <File FileName="ContosoUniversity/Pages/Shared/_Layout.cshtml" Line="59" Column="8" />
+      <File FileName="ContosoUniversity/Pages/Index.cshtml" Line="18" Column="11" />
+      <File FileName="ContosoUniversity/Models/Student.cs" Line="13" Column="41" />
+      <File FileName="ContosoUniversity/Models/Enrollment.cs" Line="18" Column="2" />
+      <File FileName="ContosoUniversity/Models/Course.cs" Line="17" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ContosoUniversity" expanded="True">
+            <Node name="ContosoUniversity" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Course.cs" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
